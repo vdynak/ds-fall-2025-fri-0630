@@ -17,7 +17,7 @@
 0. Finish Github Setup
 
 
-# Homework Due Friday [~2.25 hrs to complete]
+# Homework Due Thursday 09/04/2025 [~2.25 hrs to complete]
 
 ## 1. Update Slack Profile with real photo and name.
 
