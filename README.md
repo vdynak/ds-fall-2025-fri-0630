@@ -16,17 +16,10 @@
 
 ### Office Hours
 * Georgios Ioannou: DM to set up a meeting
-<<<<<<< HEAD
-* Ahmad Basyouni
-* Hussam Marzooq: Fridays 7-8 PM
-* Jessica Lau: DM to set up a meeting
-* Kevin Li: Fridays 9-10 PM
-=======
 * Ahmad Basyouni:
 * Hussam Marzooq: Fridays 07:00 PM - 08:00 PM
 * Jessica Lau: DM to set up a meeting
 * Kevin Li: Fridays 09:00 PM -10:00 PM
->>>>>>> upstream/main
 
 # Syllabus
 
@@ -52,16 +45,6 @@ _*Syllabus and topics are subject to change_
 
 ## Getting Started (PLEASE READ THIS CAREFULLY TO SET YOURSELF UP FOR SUCCESS THIS SEMESTER)
 1. Fork the class’ main repository to your own GitHub account `ds-fall-2025-YOUR_CLASS_SECTION`.
-<<<<<<< HEAD
-![Click Fork](assets/img/click_fork.png)
-![Create Fork](assets/img/create_fork.png)
-
-2. Every week go to your forked repo and create a branch `firstname-lastname-week-XX` XX is the week number, eg: ahmad-basyouni-week-01
-![Make Branch](assets/img/makeBranch.png)
-
-3. Press on the code button in your new fork and select Codespaces, then select `Create codespace on firstname-lastname-week-XX`
-![Make Codepspace](assets/img/codespace.png)
-=======
 ![Click Fork](readme_images/click_fork.png)
 ![Create Fork](readme_images/create_fork.png)
 
@@ -70,24 +53,15 @@ _*Syllabus and topics are subject to change_
 
 3. Press on the code button in your new fork and select Codespaces, then select `Create codespace on firstname-lastname-week-XX`
 ![Make Codepspace](readme_images/codespace.png)
->>>>>>> upstream/main
 
 4. Go into this week’s folder in the new tab that opens
 
 5. Once you have created your codespace and is running on the new tab, then you have the option to open it in your local VSCode by clicking on the three dots
-<<<<<<< HEAD
-![More Actions](assets/img/more_actions.png)
-![VSCode](assets/img/vscode.png)
-
-6. For homework, make a copy of the exercise notebook (don’t edit the original—make your own copy!) and paste it in the `exercises` folder
-![Copy](assets/img/copyy.png)
-=======
 ![More Actions](readme_images/more_actions.png)
 ![VSCode](readme_images/vscode.png)
 
-6. For homework, make a copy of the exercise notebook (don’t edit the original—make your own copy!) and paste it in the `exercises` folder
+6. For homework, make a copy of the exercise notebook (don’t edit the original—make your own copy!) and paste it in the `exercise` folder
 ![Copy](readme_images/copy.png)
->>>>>>> upstream/main
 
 7. Name it `firstname-lastname-exercise-week-XX.ipynb`
 
@@ -96,59 +70,35 @@ _*Syllabus and topics are subject to change_
 9. When you are done, run these commands:
     - `git status` to see your file you need to add
     - `git add` your new file name, should look something like this:
-        - `git add Week-01-Pandas/exercises/Ahmad-Basyouni-exercise-week-01.ipynb`
+        - `git add Week-01-Pandas/exercise/Ahmad-Basyouni-exercise-week-01.ipynb`
     - `git commit -m “your message here”`
     - `git push origin firstname-lastname-week-XX`
   
-<<<<<<< HEAD
-![git](assets/img/gitt.png)
-=======
 ![git](readme_images/git.png)
->>>>>>> upstream/main
 
 10. Go back to your class main repository on GitHub. You’ll see a prompt to create a Pull Request (PR) for your branch `Compare & Pull Request`. If you don’t see it, press on Contribute and make a PR through there.
 
 11. Write a short description of what you did and if you completed any extra credit (e.g., “Completed week 1 homework and finished extra credit for ......“).
-<<<<<<< HEAD
-![gitdesc](assets/img/gitdesc.png)
-=======
 ![gitdesc](readme_images/gitdesc.png)
->>>>>>> upstream/main
 
 12. Submit the PR by pressing `Create Pull Request`. We’ll review your work and leave comments if anything needs fixing. Once it’s approved, we’ll merge it. You don’t need to merge it yourself—just wait for review and feedback.
 
 13. From now on, in the beginning of every class make sure to pull all changes from the parent repo, so before making a new branch for the current week, go to main branch in your fork repo and do `Sync Fork` then `Update Branch`
-<<<<<<< HEAD
-![sync](assets/img/sync.png)
-=======
 ![sync](readme_images/sync.png)
->>>>>>> upstream/main
 
 14. Now you are ready to start from step 0, by making new branch for the current week and do the work like described above in order. Happy coding!
 
 ## Homework Submission
-<<<<<<< HEAD
-- All homework is due at 12:01pm (noon) the day before the next class
-=======
 - All homework is due at 12:01 PM (noon) the day before the next class
->>>>>>> upstream/main
-- Submit GitHub PR links to your completed exercises
+- Submit GitHub PR links to your completed exercise
 # Homework Instructions: How to hand in your HWs.
 __HW assignments can be found in that each weeks README.md file. Open that weeks folder to find assignment__
 
-<<<<<<< HEAD
-__All HWs are due at 12:01pm (noon) the day before the next class__
-
-* Tue class:  HW due 12:01pm on Mon
-* Wed class: HW due 12:01pm on Tue
-* Fridays (both):  HW due 12:01pm on Thr
-=======
 __All HWs are due at 12:01 PM (noon) the day before the next class__
 
 * Tuesday class: HW due 12:01 PM on Monday
 * Wednesday class: HW due 12:01 PM on Tuesday
 * Fridays (both 12:30 PM and 06:30 PM): HW due 12:01 PM on Thursday
->>>>>>> upstream/main
 
 __Submit your HW assignments to the form below:__
 * [Main HW submission form](https://forms.gle/Ea1TnJ6D2NT6otBV9)
